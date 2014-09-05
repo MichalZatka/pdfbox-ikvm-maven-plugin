@@ -1,8 +1,8 @@
 //
-// ikvm-maven-plugin - generates C# DLL from Java code via IKVM
+// pdfbox-ikvm-maven-plugin - generates C# DLL from Java code via IKVM for the pdfbox
 // http://github.com/samskivert/ikvm-maven-plugin/blob/master/LICENSE
 
-package com.samskivert;
+package com.mz;
 
 import java.io.File;
 import java.io.IOException;
