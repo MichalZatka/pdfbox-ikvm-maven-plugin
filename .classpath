@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="plexus-utils-3.0.17.jar"/>
+	<classpathentry kind="lib" path="maven-artifact-3.2.3.jar"/>
+	<classpathentry kind="lib" path="maven-project-2.2.1.jar"/>
+	<classpathentry kind="lib" path="maven-plugin-api-3.2.3.jar"/>
+	<classpathentry kind="lib" path="maven-model-3.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
